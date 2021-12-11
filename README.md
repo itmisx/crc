@@ -4,7 +4,7 @@ crc 校验在物联网数据校验中经常使用，这里封装了crc8和crc16�
 
 #### install
 
-`go get -u https://github.com/itmisx/crc`
+`go get -u github.com/itmisx/crc`
 
 #### example
 
